@@ -1,1 +1,2 @@
 # HeadHuncho-II
+Using my current knowledge and of code and the motivation to know more I want to create an app to link mentors and students together. I plan to have it so mentors can log in and state their strengths to match up with the students weakness. I also would like to have the mentors background searched so it can safe for the students to meet them. I want it over all to be servive for peopel to be mentored
